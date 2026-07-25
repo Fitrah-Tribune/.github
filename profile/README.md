@@ -33,7 +33,7 @@ The website provides a fast and accessible platform for readers to explore artic
 
 ---
 
-##☝️ Fun Facts
+## ☝️ Fun Facts
 * No fun fact yet i guess...
 
 ---
